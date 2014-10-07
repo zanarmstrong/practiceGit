@@ -1,0 +1,1 @@
+First, start with "git init" to initialize a new repository.  Do this from inside the repository you want to track. 
