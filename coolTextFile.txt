@@ -11,3 +11,9 @@ To commit, "git commit -m 'adding new textfile'"
 working directory, stage, and repository.  The value of this is 
 
 This is all LOCAL (for now).  
+
+Options for a GUI: sourcetree, github for mac
+
+Online: start a new repository, get code to enter on command line.  
+
+Keep in mind that "ls -al" to show hidden files, like git files. 
