@@ -1,1 +1,5 @@
 First, start with "git init" to initialize a new repository.  Do this from inside the repository you want to track. 
+
+Type "git status" to show current status.  
+
+If you want to add an untracked file, type "git add [filename]" to add [filename] or "git add ." to add all
