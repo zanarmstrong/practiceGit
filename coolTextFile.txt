@@ -17,3 +17,5 @@ Options for a GUI: sourcetree, github for mac
 Online: start a new repository, get code to enter on command line.  
 
 Keep in mind that "ls -al" to show hidden files, like git files. 
+
+Let me try making some more changes... 
