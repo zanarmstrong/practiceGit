@@ -3,3 +3,11 @@ First, start with "git init" to initialize a new repository.  Do this from insid
 Type "git status" to show current status.  
 
 If you want to add an untracked file, type "git add [filename]" to add [filename] or "git add ." to add all
+
+To commit, "git commit -m 'adding new textfile'"
+
+"git log" shows what I've done.
+
+working directory, stage, and repository.  The value of this is 
+
+This is all LOCAL (for now).  
