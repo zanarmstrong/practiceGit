@@ -11,3 +11,5 @@ To commit, "git commit -m 'adding new textfile'"
 working directory, stage, and repository.  The value of this is 
 
 This is all LOCAL (for now).  
+
+Let me try making some more changes... 
